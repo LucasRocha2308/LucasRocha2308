@@ -2,26 +2,8 @@
 
 Meu nome é Lucas, sou formado em Engenheiro de Produção e atualmente estou em transição de carreira para a área de Desenvolvimento Web. Durante minha jornada profissional, tive contato com pessoas da área de tecnologia e me apaixonei muito por esta profissão. Atualmente curso Análise e Desenvolvimento de Sistemas, e cursos Desenvolvimento Web, todos os dias acordo motivado para aprender cada vez mais sobre esta incrível profissão!
 
- 
-## Contatos
-
-<div style="display:inline-block"><br>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRocha2308)](https://github.com/LucasRocha2308)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rocha-da-silva-530618149/)](https://www.linkedin.com/in/lucas-rocha-da-silva-530618149/)
-
-[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/LucasRocha2308)](https://gitlab.com/LucasRocha2308)
-
- <a href = "mailto: lucas_rocha_25@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
- " target="_blank"></a>
- 
-  <a href = "https://portfolio-o36dmevfk-lucas-rocha-25-hotmailcom.vercel.app/" target="_blank"><img src="https://e7.pngegg.com/pngimages/114/10/png-clipart-computer-icons-graphic-design-portfolio-portfolio-web-design-text-thumbnail.png
- " target="_blank"></a>
- 
- </div>
-
 ## Languages and Tools:
+
 [![LucasRocha2308 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRocha2308)](https://github.com/LucasRocha2308/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRocha2308&layout=compact)](https://github.com/LucasRocha2308/github-readme-stats)
 
@@ -42,8 +24,23 @@ Meu nome é Lucas, sou formado em Engenheiro de Produção e atualmente estou em
 <code><img height="20" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 
-![Snake animation](https://github.com/LucasRocha2308/LucasRocha2308/blob/master/.github/workflows/cobrinha.svg)
+## Contatos
 
-- Obrigado por visitar meu perfil. 
- 
+<div style="display:flex; justify-content: space-between;"><br>
+
+<a href = "https://github.com/LucasRocha2308" target="_blank"> <img width="90" height="30" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasRocha2308" target="_blank"></a>
+
+<a href = "ttps://www.linkedin.com/in/lucas-rocha-da-silva-530618149/" target="_blank"> <img width="90" height="30" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rocha-da-silva-530618149/" target="_blank"></a>
+
+<a href = "https://gitlab.com/LucasRocha2308" target="_blank"> <img width="90" height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/LucasRocha2308" target="_blank"></a>
+
+<a href = "mailto: lucas_rocha_25@hotmail.com" target="_blank"><img width="90" height="30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+ " target="_blank"></a>
+
+<a href = "https://portfolio-o36dmevfk-lucas-rocha-25-hotmailcom.vercel.app/" target="_blank"> <img height="50" src="https://e7.pngegg.com/pngimages/114/10/png-clipart-computer-icons-graphic-design-portfolio-portfolio-web-design-text-thumbnail.png" target="_blank"></a>
+
+ </div>
+
+- Obrigado por visitar meu perfil.
+
 - Enjoy it!! 🤖
