@@ -34,8 +34,8 @@ Meu nome é Lucas, sou formado em Engenheiro de Produção e atualmente estou em
 
 <a href = "https://gitlab.com/LucasRocha2308" target="_blank"> <img width="90" height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/LucasRocha2308" target="_blank"></a>
 
-<a href = "mailto: lucas_rocha_25@hotmail.com" target="_blank"><img width="90" height="30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
- " target="_blank"></a>
+<!-- <a href = "mailto: lucas_rocha_25@hotmail.com" target="_blank"><img width="90" height="30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+ " target="_blank"></a> -->
 
 <a href = "https://portfolio-o36dmevfk-lucas-rocha-25-hotmailcom.vercel.app/" target="_blank"> <img height="50" src="https://e7.pngegg.com/pngimages/114/10/png-clipart-computer-icons-graphic-design-portfolio-portfolio-web-design-text-thumbnail.png" target="_blank"></a>
 
