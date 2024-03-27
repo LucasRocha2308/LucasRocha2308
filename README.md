@@ -1,6 +1,6 @@
 # Olá Mundo,! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-Meu nome é Lucas, sou formado em Engenheiro de Produção e atualmente estou em transição de carreira para a área de Desenvolvimento Web. Durante minha jornada profissional, tive contato com pessoas da área de tecnologia e me apaixonei muito por esta profissão. Atualmente curso Análise e Desenvolvimento de Sistemas, e cursos Desenvolvimento Web, todos os dias acordo motivado para aprender cada vez mais sobre esta incrível profissão!
+Meu nome é Lucas, sou formado em Engenheiro de Produção e atualmente atuo como desenvolvedor Front-end. Durante minha jornada profissional, tive contato com pessoas da área de tecnologia e me apaixonei muito por esta profissão. Todos os dias acordo motivado para aprender cada vez mais sobre esta incrível profissão!
 <!-- ## Languages and Tools: -->
 ## Languages and Tools:
 
